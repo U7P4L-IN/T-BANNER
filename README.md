@@ -1,10 +1,4 @@
-## Tarmux Stylish Tarminal Banner
-
-🌺Welcome🌺
---------|
-![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
-
-
+<p align="center"><img src="./assets/images/TARMUX_BANNER.png">
 
 AUTHOR:
 <p align="center">
@@ -33,6 +27,8 @@ U7P4L IN
 
 bash install.sh
 ```
+<p align="center"><img src="./assets/images/carbon.png">
+
 #### Screenshots:
 
 <p align="center"><img src="https://github.com/U7P4L-IN/T-BANNER/blob/main/Screenshot_2023-07-18-15-06-54-433_com.termux-01.jpeg">
