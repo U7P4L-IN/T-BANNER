@@ -29,7 +29,7 @@ U7P4L IN
 
  chmod +x *
 
- bash Install.sh
+bash install.sh
 ```
 #### Screenshots:
 
