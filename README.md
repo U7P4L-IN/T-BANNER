@@ -30,7 +30,7 @@ U7P4L IN
 
  cd T-BANNER
 
- ls
+ chmod +x *
 
  bash Install.sh
 ```
