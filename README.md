@@ -27,7 +27,7 @@ U7P4L IN
 
 bash install.sh
 ```
-<p align="center"><img src="./assets/images/carbon.png">
+<p align="center"><img src="https://github.com/U7P4L-IN/T-BANNER/blob/main/assets/carbon.png">
 
 #### Screenshots:
 
