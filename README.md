@@ -10,21 +10,18 @@ U7P4L IN
 
 </br>
 <p align="center">
-      ⚡Random ID Cloning Tools⚡
+      ⚡Tarmux Stylish Tarminal Banner⚡
 
 </p>
   
 #### INSTALL TOOL ON TERMUX
-```python
- pkg update
- pkg upgrade
- pkg install python
- pkg install git
- pip install requests
- pip install bs4
- pip install futures
- pip install mechanize
- cd $HOME 
+```bash
+ apt update && apt -y upgrade
+ 
+ pkg install -y git
+ 
+ termux-setup-storage
+
  rm -rf T-BANNER
  git clone --depth=1 https://github.com/U7P4L-IN/T-BANNER.git
 
