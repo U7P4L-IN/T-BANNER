@@ -1,4 +1,4 @@
-<p align="center"><img src="./assets/images/TARMUX_BANNER.png">
+<p align="center"><img src="https://github.com/U7P4L-IN/T-BANNER/blob/main/assets/TARMUX_BANNER.png">
 
 AUTHOR:
 <p align="center">
