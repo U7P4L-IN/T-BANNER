@@ -30,13 +30,13 @@ chmod +x *
 ```
 <h3 align="center"><b>COMMAND MENU > </b></h3>
 
-<p align="center"><img src=".\assets\menu.jpg">
+<p align="center"><img src="./assets/menu.jpg">
 
 <h3 align="center"><b>TERMINAL STYLE</b></h3>
 
-<p align="center"><img src=".\assets\demo1.jpg">
-<p align="center"><img src=".\assets\demo2.jpg">
-<p align="center"><img src=".\assets\demo3.jpg">
+<p align="center"><img src="./assets/demo1.jpg">
+<p align="center"><img src="./assets/demo2.jpg">
+<p align="center"><img src="./assets/demo3.jpg">
 
 
 <h3 align="center"><b>ANY BANNER REMOVER COMMAND > </b></h3>
