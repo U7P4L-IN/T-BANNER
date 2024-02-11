@@ -55,7 +55,7 @@ bash remove.sh
 <h3 align="center"><b>LANGUAGE</b></h3>
 
 <br>
-<a href="https://github.com/U7P4L-IN/FB-BRUTE">
+<a href="https://github.com/U7P4L-IN/T-BANNER">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=U7P4L-IN&repo=T-BANNER&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
